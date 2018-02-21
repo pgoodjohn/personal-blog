@@ -37,12 +37,12 @@ DEFAULT_METADATA = {
 }
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
 
 # Theme and theme settings
 THEME='themes/pelican-sober'
 CSS_FILE = 'main.css'
-PELICAN_SOBER_ABOUT = "My name is Pietro. I am a Software Engineer, a consultant and a student. I sometime write things and publish them."
+PELICAN_SOBER_ABOUT = "My name is Pietro. I am a Software Engineer, a consultant and a student. Sometimes I write things and publish them on the internet."
 PELICAN_SOBER_STICKY_SIDEBAR = True
 
 # Theme info: https://github.com/fle/pelican-sober
