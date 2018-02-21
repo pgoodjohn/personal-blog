@@ -35,7 +35,8 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 # Theme and theme settings
-THEME='pelican-sober'
+THEME='themes/pelican-sober'
+THEME_STATIC_DIR = 'themes/pelican-sober/static'
 PELICAN_SOBER_ABOUT = "My name is Pietro. I am a Software Engineer, a consultant and a student. I sometime write things and publish them."
 PELICAN_SOBER_STICKY_SIDEBAR = True
 
