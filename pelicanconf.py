@@ -4,7 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Pietro Bongiovanni'
 SITENAME = u'Software Engineering is hard'
-SITEURL = ''
+SITEURL = 'https://blog.pietrobongiovanni.com'
+GOOGLE_ANALYTICS = u'UA-78188164-4'
 
 PATH = 'content'
 
