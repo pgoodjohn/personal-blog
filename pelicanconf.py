@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Pietro Bongiovanni'
-SITENAME = u'Software Engineering is hard'
+SITENAME = u'Engineering life with Software'
 SITEURL = 'https://blog.pietrobongiovanni.com'
 GOOGLE_ANALYTICS = u'UA-78188164-4'
 
@@ -22,7 +22,6 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('My website', 'https://pietrobongiovanni.com/'),
-         ('My company\'s technical blog', 'https://medium.com/fixico'),
          ('Source Code', 'https://github.com/pgoodjohn/personal-blog'))
 
 # Social widget
@@ -37,12 +36,12 @@ DEFAULT_METADATA = {
 }
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = False
 
 # Theme and theme settings
 THEME='themes/pelican-sober'
 CSS_FILE = 'main.css'
-PELICAN_SOBER_ABOUT = "My name is Pietro. I am a Software Engineer, a consultant and a student. Sometimes I write things and publish them on the internet."
+PELICAN_SOBER_ABOUT = "Discussing hard topics in Software and how to use engineering principles to improve everyday life."
 PELICAN_SOBER_STICKY_SIDEBAR = True
 
 # Theme info: https://github.com/fle/pelican-sober
